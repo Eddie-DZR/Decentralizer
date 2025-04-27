@@ -1,3 +1,3 @@
 # Decentralizer
 
-An Open‑Source project — more information coming soon.
+An Open source project — more information coming soon.
