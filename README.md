@@ -1,6 +1,6 @@
 # Decentralizer
 
-An Open-Source project — more information coming soon.
+An Open-Source Bitcoin project — more information coming soon.
 
 ## Licensing
 Hardware (open): CERN-OHL-S-2.0  
