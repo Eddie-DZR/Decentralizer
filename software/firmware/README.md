@@ -1,2 +1,2 @@
-# hardware/firmware
+# software/firmware
 Work in progress.
