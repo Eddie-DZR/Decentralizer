@@ -8,3 +8,8 @@ Software: MIT
 
 ## Trademark
 Name & logo: see TRADEMARK.md
+
+## Contribute
+Interested in helping (Raspberry Pi / Linux / embedded / hardware)?
+Email: contact@decentralizer.org
+
