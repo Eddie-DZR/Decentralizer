@@ -10,9 +10,6 @@ Trademark guidance is separate from the open-source licenses.
 - You may refer to “Decentralizer” to describe or credit the original project.
 - You may link to this repository and use the name in documentation that clearly points to the original project.
 
-## Forks / modified versions
-To avoid confusion, please use a different name and remove the logo for modified or redistributed versions, unless you have written permission.
-
 ## Contact
 For questions or permission requests: contact@decentralizer.org
 
