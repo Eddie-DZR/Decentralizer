@@ -7,8 +7,6 @@ An Open-Source Bitcoin project — more information coming soon.
 Interested in helping with Raspberry Pi / Linux / embedded / hardware?  
 Email: contact [at] decentralizer.org
 
-
-
 ## Trademark
 Name & logo: see TRADEMARK.md
 
