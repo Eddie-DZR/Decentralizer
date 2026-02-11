@@ -4,7 +4,7 @@ An Open-Source Bitcoin project — more information coming soon.
 
 ## Contribute
 
-Interested in helping with Raspberry Pi / Linux / embedded / hardware?  
+Looking for contributors with experience in Raspberry Pi, Linux, embedded hardware, and display integration.
 Email: contact [at] decentralizer.org
 
 ## Licensing
