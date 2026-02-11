@@ -1,6 +1,6 @@
 # Trademark
 
-Decentralizer and the Decentralizer logo are trademarks of decentralizer.org and are free to use worldwide for open-source Bitcoin hardware and software (including forks and derivatives).
+Decentralizer and the Decentralizer logo are trademarks of decentralizer.org and are free to use worldwide for open-source Bitcoin hardware and software.
 
 Please use the name and logo in a way that does not mislead people (no impersonation, no false endorsement). Linking back to the original project is appreciated.
 
