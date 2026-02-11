@@ -8,5 +8,5 @@ Please use the name and logo in a way that honors the identity, spirit, and visi
 
 <img width="75" height="75" alt="DZR" src="https://github.com/user-attachments/assets/b11ef302-5179-463e-bedf-3c7ae35bfc5e" />
 
-<img src="path/to/wordmark.png" width="700">
-<img src="path/to/icon.png" width="120">
+<img src="[path/to/wordmark.png](https://github.com/user-attachments/assets/27139bd2-452f-4bf4-b895-9c6d26a5c7fa)" width="700">
+<img src="[path/to/icon.png](https://github.com/user-attachments/assets/b11ef302-5179-463e-bedf-3c7ae35bfc5e)" width="120">
