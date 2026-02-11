@@ -10,6 +10,3 @@ Email: contact [at] decentralizer.org
 ## Licensing
 Hardware (open): CERN-OHL-S-2.0  
 Software: MIT  
-
-## Trademark
-see TRADEMARK.md
