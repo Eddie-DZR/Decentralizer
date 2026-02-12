@@ -9,7 +9,8 @@
 <h1 align="center">DECENTRALIZER</h1>
 
 <p align="center">
-  Open-Source Bitcoin hardware & software initiative.
+  An Open-Source Bitcoin hardware & software project — more information coming soon.
+  
 </p>
 
 ---
