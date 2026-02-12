@@ -1,17 +1,29 @@
-<img width="1250" height="680" alt="decentralizer" src="https://github.com/user-attachments/assets/10e0df66-33b8-454f-8bab-2bcb2c55b275" />
-<img width="256" height="256" alt="DZR" src="https://github.com/user-attachments/assets/7a937e22-55db-43e2-bb8e-d05f2d3fee3a" />
-
-
 <p align="center">
-  <img src="logo-icon.png" width="120">
+  <!-- Wordmark / Schriftzug -->
+  <img
+    src="PASTE_WORDMARK_URL_HERE"
+    alt="Decentralizer"
+    style="max-width: 700px; width: 80%; height: auto;"
+  />
 </p>
 
-<h1 align="center">DECENTRALIZER</h1>
+<p align="center">
+  <!-- Icon / D-Logo -->
+  <img
+    src="PASTE_ICON_URL_HERE"
+    alt="Decentralizer Icon"
+    width="160"
+    height="160"
+  />
+</p>
+
+<h2 align="center">DECENTRALIZER</h2>
 
 <p align="center">
-  An Open-Source Bitcoin hardware & software project — more information coming soon.
-  
+  An Open-Source Bitcoin hardware &amp; software project — more information coming soon.
 </p>
+
+<hr/>
 
 ---
 
