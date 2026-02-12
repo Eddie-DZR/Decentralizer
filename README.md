@@ -15,8 +15,6 @@
   />
 </p>
 
-<h2 align="center">DECENTRALIZER</h2>
-
 <p align="center">
   An Open-Source Bitcoin hardware &amp; software project — more information coming soon.
 </p>
