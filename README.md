@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="[WORDMARK_URL](https://github.com/user-attachments/assets/2399591f-bd7e-4aa3-a18f-21e027cc885a)"
+    src="https://github.com/user-attachments/assets/2399591f-bd7e-4aa3-a18f-21e027cc885a"
     alt="Decentralizer"
     style="max-width: 520px; width: 85%; height: auto;"
   />
@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="[ICON_URL](https://github.com/user-attachments/assets/2f81a135-4536-4a37-8e5c-4a615adb93df)"
+    src="https://github.com/user-attachments/assets/2f81a135-4536-4a37-8e5c-4a615adb93df"
     alt="Decentralizer Icon"
     width="120"
     height="120"
