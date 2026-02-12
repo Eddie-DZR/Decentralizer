@@ -1,19 +1,17 @@
 <p align="center">
-  <!-- Wordmark / Schriftzug -->
   <img
-    src="https://github.com/user-attachments/assets/196f1da9-1964-4da6-8490-b0ef6d08b072" />"
+    src="[WORDMARK_URL](https://github.com/user-attachments/assets/2399591f-bd7e-4aa3-a18f-21e027cc885a)"
     alt="Decentralizer"
-    style="max-width: 700px; width: 80%; height: auto;"
+    style="max-width: 520px; width: 85%; height: auto;"
   />
 </p>
 
 <p align="center">
-  <!-- Icon / D-Logo -->
   <img
-    src="https://github.com/user-attachments/assets/03082f8d-4875-46a1-820b-98d2f89e3f7a" />"
+    src="[ICON_URL](https://github.com/user-attachments/assets/2f81a135-4536-4a37-8e5c-4a615adb93df)"
     alt="Decentralizer Icon"
-    width="160"
-    height="160"
+    width="120"
+    height="120"
   />
 </p>
 
@@ -33,4 +31,3 @@ Email: contact [at] decentralizer.org
 ## Licensing
 Hardware (open): CERN-OHL-S-2.0  
 Software: MIT  
-
