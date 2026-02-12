@@ -2,7 +2,7 @@
   <img
     src="https://github.com/user-attachments/assets/2399591f-bd7e-4aa3-a18f-21e027cc885a"
     alt="Decentralizer"
-    style="max-width: 200px; width: 50%; height: auto;"
+    style="max-width: 150px; width: 40%; height: auto;"
   />
 </p>
 
