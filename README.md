@@ -10,7 +10,7 @@
 <p align="center">
   <!-- Icon / D-Logo -->
   <img
-    src="PASTE_ICON_URL_HERE"
+    src="<img width="1024" height="1024" alt="DZR" src="https://github.com/user-attachments/assets/03082f8d-4875-46a1-820b-98d2f89e3f7a" />"
     alt="Decentralizer Icon"
     width="160"
     height="160"
@@ -25,8 +25,6 @@
 
 <hr/>
 
----
-
 ## Contribute
 
 Looking for contributors with experience in Raspberry Pi, Linux, embedded hardware, and hardware/device interfaces.
@@ -35,3 +33,4 @@ Email: contact [at] decentralizer.org
 ## Licensing
 Hardware (open): CERN-OHL-S-2.0  
 Software: MIT  
+
