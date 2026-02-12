@@ -14,7 +14,6 @@
     height="80"
   />
 </p>
-
 <h2 align="center">DECENTRALIZER</h2>
 
 <p align="center">
