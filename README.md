@@ -15,13 +15,6 @@
 
 ---
 
-
-
-
-# Decentralizer
-
-An Open-Source Bitcoin project — more information coming soon.
-
 ## Contribute
 
 Looking for contributors with experience in Raspberry Pi, Linux, embedded hardware, and hardware/device interfaces.
