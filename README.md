@@ -1,5 +1,5 @@
 <img width="4600" height="680" alt="decentralizer" src="https://github.com/user-attachments/assets/10e0df66-33b8-454f-8bab-2bcb2c55b275" />
-<img width="1024" height="1024" alt="DZR" src="https://github.com/user-attachments/assets/7a937e22-55db-43e2-bb8e-d05f2d3fee3a" />
+<img width="512" height="512" alt="DZR" src="https://github.com/user-attachments/assets/7a937e22-55db-43e2-bb8e-d05f2d3fee3a" />
 
 
 <p align="center">
