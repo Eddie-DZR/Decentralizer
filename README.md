@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="link-zum-logo.png" width="180">
+</p>
+
+
+
+
 # Decentralizer
 
 An Open-Source Bitcoin project — more information coming soon.
