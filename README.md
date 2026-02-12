@@ -10,8 +10,8 @@
   <img
     src="https://github.com/user-attachments/assets/2f81a135-4536-4a37-8e5c-4a615adb93df"
     alt="Decentralizer Icon"
-    width="80"
-    height="80"
+    width="60"
+    height="60"
   />
 </p>
 
