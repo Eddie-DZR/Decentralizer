@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Wordmark / Schriftzug -->
   <img
-    src="<img width="4600" height="680" alt="decentralizer" src="https://github.com/user-attachments/assets/196f1da9-1964-4da6-8490-b0ef6d08b072" />"
+    src="https://github.com/user-attachments/assets/196f1da9-1964-4da6-8490-b0ef6d08b072" />"
     alt="Decentralizer"
     style="max-width: 700px; width: 80%; height: auto;"
   />
@@ -10,7 +10,7 @@
 <p align="center">
   <!-- Icon / D-Logo -->
   <img
-    src="<img width="1024" height="1024" alt="DZR" src="https://github.com/user-attachments/assets/03082f8d-4875-46a1-820b-98d2f89e3f7a" />"
+    src="https://github.com/user-attachments/assets/03082f8d-4875-46a1-820b-98d2f89e3f7a" />"
     alt="Decentralizer Icon"
     width="160"
     height="160"
