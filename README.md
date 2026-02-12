@@ -10,7 +10,7 @@
 <p align="center">
   <!-- Icon / D-Logo -->
   <img
-    src="<img width="1024" height="1024" alt="DZR" src="https://github.com/user-attachments/assets/03082f8d-4875-46a1-820b-98d2f89e3f7a" />"
+    src=<img width="1024" height="1024" alt="DZR" src="https://github.com/user-attachments/assets/03082f8d-4875-46a1-820b-98d2f89e3f7a" />
     alt="Decentralizer Icon"
     width="160"
     height="160"
