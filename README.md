@@ -28,7 +28,8 @@ Email: contact [at] decentralizer.org
 
 ## Licensing
 Hardware (open): CERN-OHL-S-2.0  
-Software: MIT  
+Software: MIT
+
 <br/>
 <hr style="width:60%;"/>
 <br/>
