@@ -1,4 +1,4 @@
-<img width="2300" height="680" alt="decentralizer" src="https://github.com/user-attachments/assets/10e0df66-33b8-454f-8bab-2bcb2c55b275" />
+<img width="1250" height="680" alt="decentralizer" src="https://github.com/user-attachments/assets/10e0df66-33b8-454f-8bab-2bcb2c55b275" />
 <img width="256" height="256" alt="DZR" src="https://github.com/user-attachments/assets/7a937e22-55db-43e2-bb8e-d05f2d3fee3a" />
 
 
